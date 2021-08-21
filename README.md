@@ -1,5 +1,10 @@
 # Standford CS231n 2017 Summary
-
+# if you find the download.py is difficult to excute you an use the follow method to get a pdf version:
+# 1.Download the README.md to a path,and remember the path,then use pandoc(need to install: brew install pandoc(this command is for Mac ) )to convert the file into docx（use the #command:pandoc README.tex -o XXXXX.docx）, there is  no need latex engine for this method, at last you can change it into any format you like.   
+# 2.There is a very useful app named Atom(https://atom.io/),you can download it, and then install markdown-preview-enhanced(File->install->markdown-preview-enhanced).
+# After finish it. open the README.md file and press ctrl+shift+M you can open the preview window, then you can make the README.md into XXX.pdf  
+# if you are good at python you can dirctly run the download.py,but you may waste more time than  above methods.
+# The first one is the fast if you are Mac,it just need two commands
 After watching all the videos of the famous Standford's [CS231n](http://cs231n.stanford.edu/) course that took place in 2017, i decided to take summary of the whole course to help me to remember and to anyone who would like to know about it. I've skipped some contents in some lectures as it wasn't important to me.
 
 ## Table of contents
