@@ -5,6 +5,7 @@
 # After finish it. open the README.md file and press ctrl+shift+M you can open the preview window, then you can make the README.md into XXX.pdf  
 # if you are good at python you can dirctly run the download.py,but you may waste more time than  above methods.
 # The first one is the fast if you are Mac,it just need two commands
+#
 After watching all the videos of the famous Standford's [CS231n](http://cs231n.stanford.edu/) course that took place in 2017, i decided to take summary of the whole course to help me to remember and to anyone who would like to know about it. I've skipped some contents in some lectures as it wasn't important to me.
 
 ## Table of contents
